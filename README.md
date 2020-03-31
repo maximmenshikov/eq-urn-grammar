@@ -1,2 +1,2 @@
 # eq-urn-grammar
-urn-grammar for internal purposes
+URN grammar for internal static analysis purposes
